@@ -7,7 +7,9 @@ export default function App() {
     <View style={styles.container}>
       <ProductScreen />
       <StatusBar style="auto" />
+      <Text>Deuxième modification</Text>
     </View>
+    
   );
 }
 
